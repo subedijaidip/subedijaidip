@@ -1,4 +1,4 @@
-<h1 align="center">Hey, this is Jaidip. A vide-coder.</h1>
+<h1 align="center">Hey, this is Jaidip. A vibe-coder.</h1>
 
 ###
 
