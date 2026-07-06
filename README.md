@@ -8,7 +8,7 @@ From SEO-driven websites and AI tools to calculators, educational platforms, and
 </p>
 
 <p align="center">
-<a href="https://gitfut.com/subedijaidip">
+<a href="https://gitfut.com/subedijaidip?country=NP">
 <img src="https://gitfut.com/subedijaidip.png" width="240" alt="GitFut Card">
 </a>
 </p>
